@@ -1,0 +1,9 @@
+@extends('layouts.app')
+
+@section('title', 'О нас')
+
+@section('content')
+    <h1>О нас</h1>
+    <p>Мы — команда разработчиков, изучающих Laravel и шаблонизатор Blade.</p>
+    <p>Эта страница также использует общий layout.</p>
+@endsection
